@@ -1,4 +1,4 @@
-select Medico.nome
-from Medico
+select medico.nome
+from medico
 #where not exists(select Consulta.crm from Consulta where Medico.crm = Consulta.crm)
-where Medico.crm not in (select Consulta.crm from Consulta)
+where medico.crm not in (select consulta.crm from consulta)
