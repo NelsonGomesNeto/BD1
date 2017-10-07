@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Exercise 2">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="NELSON-AMD\SQLEXPRESS:NELSON-AMD\ngome">
+          <Created>2017-10-06T23:07:03.2114676-03:00</Created>
+          <Type>SQL</Type>
+          <Server>NELSON-AMD\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>16.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>17.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>18.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>19.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>20.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>5.sql</FullPath>
+        </FileNode>
+        <FileNode Name="6.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>6.sql</FullPath>
+        </FileNode>
+        <FileNode Name="7.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>7.sql</FullPath>
+        </FileNode>
+        <FileNode Name="8.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>8.sql</FullPath>
+        </FileNode>
+        <FileNode Name="9.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>9.sql</FullPath>
+        </FileNode>
+        <FileNode Name="StartScript.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NELSON-AMD\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NELSON-AMD\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>StartScript.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
